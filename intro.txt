@@ -1,1 +1,1 @@
-Hello, this is my first Git practical assessment.
+This line was changed in conflict- branch.
