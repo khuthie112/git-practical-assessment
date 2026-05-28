@@ -1,1 +1,2 @@
-This line was changed in main branch.
+This conflict has been resolved successfully
+
